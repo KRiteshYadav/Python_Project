@@ -1,4 +1,4 @@
-# First_Project
+# Python_Project 
 Name of the project: Collector Bot</br>
 Technologies Used:</br>
  1)Embedded C</br>
