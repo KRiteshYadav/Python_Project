@@ -1,6 +1,6 @@
 """  
  * Team Id: EYRC<3921> 
- * Author List: G.Gautam,G.Rajinikanth,G.Tarun,K.Rithesh
+ * Author List: G.Gautam,G.Rajinikanth,G.Tarun,K.Ritesh
  * Filename: Collector bot 
  * Theme: Collector bot implementation
  * Functions: map,pwm,pid,send_to_cb,setobj,choose_a_goal, set_reset_goal,motion, go_to_truck,track_truck
